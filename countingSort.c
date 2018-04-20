@@ -1,4 +1,4 @@
-#include </home/william/Dropbox/Universidade/5º Período/Programação e Análise de Algoritmos/CompracaoAlgoritmos/bib.h>
+#include <bib.h>
 
 int maximum(int * array, int size){
 
