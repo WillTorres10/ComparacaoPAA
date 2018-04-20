@@ -1,4 +1,4 @@
-#include </home/william/Dropbox/Universidade/5º Período/Programação e Análise de Algoritmos/CompracaoAlgoritmos/bib.h>
+#include <bib.h>
 
 int* copiarVetor(int tam, int original[tam]){
     int *copia = (int*)malloc(sizeof(int)*tam);
