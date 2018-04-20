@@ -1,4 +1,4 @@
-#include </home/william/Dropbox/Universidade/5º Período/Programação e Análise de Algoritmos/CompracaoAlgoritmos/bib.h>
+#include <bib.h>
 
 void Intercala (int comeco, int meio, int fim, int *v){
     int comeco2, meio2, aux, *p;
