@@ -1,0 +1,18 @@
+***************************************
+Merge Sort | Pior Caso |: 0,001468 segundos
+***************************************
+Merge Sort | Medio Caso |: 0,001922 segundos
+***************************************
+Merge Sort | Melhor Caso |: 0,001214 segundos
+***************************************
+Counting Sort | Pior Caso |: 0,000109 segundos
+***************************************
+Counting Sort | Medio Caso |: 0,000100 segundos
+***************************************
+Counting Sort | Melhor Caso |: 0,000123 segundos
+***************************************
+Heap Sort | Pior Caso |: 0,002004 segundos
+***************************************
+Heap Sort | Medio Caso |: 0,001719 segundos
+***************************************
+Heap Sort | Melhor Caso |: 0,001316 segundos
