@@ -1,4 +1,4 @@
-#include </home/william/Dropbox/Universidade/5º Período/Programação e Análise de Algoritmos/CompracaoAlgoritmos/bib.h>
+#include <bib.h>
 
 void main(){
     int casos = 10000, melhorCaso[casos], casoMedio[casos], piorCaso[casos], x = casos;
